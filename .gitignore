@@ -1,0 +1,8 @@
+# Certs
+**/*.pem
+**/*.crt
+**/*.csr
+**/*.key
+**/*.srl
+index.txt
+serial
